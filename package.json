@@ -1,0 +1,20 @@
+{
+  "name": "googledriveapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdcedeno/googledriveapp.git"
+  },
+  "keywords": ["google drive api"],
+  "author": "Jose David Cedeno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdcedeno/googledriveapp/issues"
+  },
+  "homepage": "https://github.com/jdcedeno/googledriveapp#readme"
+}
